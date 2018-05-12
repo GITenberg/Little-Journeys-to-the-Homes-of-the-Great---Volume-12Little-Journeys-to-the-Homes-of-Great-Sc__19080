@@ -1,0 +1,35 @@
+_repo: Little-Journeys-to-the-Homes-of-the-Great---Volume-12Little-Journeys-to-the-Homes-of-Great-Sc__19080
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hubbard, Elbert
+    aliases:
+    - Ali Baba
+    - Elbertus, Fra
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '228'
+    url: http://www.gutenberg.org/2009/agents/228
+    wikipedia: http://en.wikipedia.org/wiki/Elbert_Hubbard
+description: ''
+gutenberg_issued: '2006-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19080'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Scientists -- Biography'
+tableOfContents: Sir Isaac Newton -- Galileo -- Copernicus -- Humboldt -- William
+  Herschel -- Charles Darwin -- Haeckel -- Linnaeus -- Thomas H. Huxley -- John Tyndall
+  -- Alfred R. Wallace -- John Fiske.
+title: 'Little Journeys to the Homes of the Great - Volume 12
+
+  Little Journeys to the Homes of Great Scientists'
+url: http://www.gutenberg.org/ebooks/19080
