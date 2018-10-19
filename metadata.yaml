@@ -28,6 +28,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'Q'
 - !lcsh 'Scientists -- Biography'
+- GITenberg
 tableOfContents: Sir Isaac Newton -- Galileo -- Copernicus -- Humboldt -- William
   Herschel -- Charles Darwin -- Haeckel -- Linnaeus -- Thomas H. Huxley -- John Tyndall
   -- Alfred R. Wallace -- John Fiske.
